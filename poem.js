@@ -1,6 +1,6 @@
 /*
   poem.js
-  Empty object for four lines irregular poem
+  Empty object for daily poem
   Sparisoma Viridi
   http://github.com/dudung
 */
