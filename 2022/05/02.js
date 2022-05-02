@@ -37,14 +37,32 @@ function content() {
   
   // 4th
   var stanza = [
-  "",
-  "",
-  "",
-  ""
+  "Belum tiba di Rancaupas",
+  "Masih empat kilo lagi",
+  "Mampir Indomaret dulu",
+  "Makan bekal menunggu buka"
   ];
   poem.push(stanza);
   
   // 5th
+  var stanza = [
+  "Lebih sedikit jam sembilan",
+  "Perut sudah bergemuruh",
+  "Sambil santap bekal sarapan",
+  "Sudah bisa beli minuman"
+  ];
+  poem.push(stanza);
+  
+  // 6th
+  var stanza = [
+  "Kabut merengkuh bukit jauh",
+  "Hujan rintik lalu deras",
+  "Ciprat titik-titik hitam",
+  "Sisa-sisa api unggun"
+  ];
+  poem.push(stanza);
+  
+  // nth
   var stanza = [
   "",
   "",
@@ -52,8 +70,8 @@ function content() {
   ""
   ];
   poem.push(stanza);
-  
-  // 6th
+    
+  // nth
   var stanza = [
   "",
   "",
@@ -70,34 +88,15 @@ function content() {
   ""
   ];
   poem.push(stanza);
-    
+  
+  // nth
+  var stanza = [
+  "",
+  "",
+  "",
+  ""
+  ];
+  poem.push(stanza);
+   
   return poem;
 }
-stanza = `
-
-
-
-
-`;
-
-
-
-
-
-
-
-
-Belum tiba di Rancaupas
-Masih empat kilo lagi
-Mampir Indomaret dulu
-Makan bekal menunggu buka
-
-Lebih sedikit jam sembilan
-Perut sudah bergemuruh
-Sambil santap bekal sarapan
-Sudah bisa beli minuman
-
-Kabut merengkuh bukit jauh
-Hujan rintik lalu deras
-Ciprat titik-titik hitam
-Sisa-sisa api unggun
