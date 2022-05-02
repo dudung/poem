@@ -5,4 +5,15 @@
   http://github.com/dudung
 */
 
-//
+function content() {
+  var poem = [];
+
+  var stanza = `
+A
+B
+C
+D
+`; poem.push(stanza)
+}
+
+
