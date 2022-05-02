@@ -6,7 +6,7 @@
 */
 
 function content() {
-  var poem = [];
+  var poem = `
   
   // 1st
   var stanza = [
@@ -46,15 +46,26 @@ function content() {
   
   return poem;
 }
-[5/2, 07:13] Sparisoma Viridi: Sudah dua tahun berlalu
+
+Jalan terblok mobil di Kolam
+Menjaga jalan tetap lapang
+Ke Pusdai ternyata Gasibu
+Kecuali hujan boleh di sana
+
+Sudah dua tahun berlalu
 Tanpa sholat Ied di Gasibu
 Alhamdulillah keadaan membaik
 Dapat sholat bersama lagi
-[5/2, 07:38] Sparisoma Viridi: Pusdai ke Gasibu
+
+Pusdai ke Gasibu
 Lewat Diponegoro
 Gasibu ke Pusdai
 Melalui Surapati
 
+Belum tiba di Rancaupas
+Masih empat kilo lagi
+Mampir Indomaret dulu
+Makan bekal menunggu buka
 
 
 
