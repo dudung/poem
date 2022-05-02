@@ -10,22 +10,22 @@ function content() {
   
   // 1st
   var stanza = [
-  "",
-  "",
-  "",
-  ""
+  "Jalan terblok mobil di Kolam",
+  "Menjaga jalan tetap lapang",
+  "Ke Pusdai ternyata Gasibu",
+  "Kecuali hujan boleh di sana"
   ];
   poem.push(stanza)
   
-  // nth
+  // 2nd
   var stanza = [
-  "",
-  "",
-  "",
-  ""
+  "Sudah dua tahun berlalu",
+  "Tanpa sholat Ied di Gasibu",
+  "Alhamdulillah keadaan membaik",
+  "Dapat sholat bersama lagi"
   ];
   poem.push(stanza)
-  
+
   // nth
   var stanza = [
   "",
@@ -46,16 +46,14 @@ function content() {
   
   return poem;
 }
+stanza = `
 
-Jalan terblok mobil di Kolam
-Menjaga jalan tetap lapang
-Ke Pusdai ternyata Gasibu
-Kecuali hujan boleh di sana
 
-Sudah dua tahun berlalu
-Tanpa sholat Ied di Gasibu
-Alhamdulillah keadaan membaik
-Dapat sholat bersama lagi
+
+
+`;
+
+
 
 Pusdai ke Gasibu
 Lewat Diponegoro
@@ -72,3 +70,7 @@ Perut sudah bergemuruh
 Sambil santap bekal sarapan
 Sudah bisa beli minuman
 
+Kabut merengkuh bukit jauh
+Hujan rintik lalu deras
+Ciprat titik-titik hitam
+Sisa-sisa api unggun
