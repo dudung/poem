@@ -5,7 +5,7 @@
   http://github.com/dudung
 */
 
-var content =`
+poem["2022-05-02"] =`
 Jalan terblok mobil di Kolam
 Menjaga jalan tetap lapang
 Ke Pusdai ternyata Gasibu
