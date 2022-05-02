@@ -1,6 +1,6 @@
 /*
-  2022_05_02.js
-  Anything hit the day
+  poem.js
+  Empty object for four lines irregular poem
   Sparisoma Viridi
   http://github.com/dudung
 */
