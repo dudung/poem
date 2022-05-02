@@ -67,5 +67,8 @@ Masih empat kilo lagi
 Mampir Indomaret dulu
 Makan bekal menunggu buka
 
-
+Lebih sedikit jam sembilan
+Perut sudah bergemuruh
+Sambil santap bekal sarapan
+Sudah bisa beli minuman
 
