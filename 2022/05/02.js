@@ -36,4 +36,3 @@ Hujan rintik lalu deras
 Ciprat titik-titik hitam
 Sisa-sisa api unggun
 `;
-}
