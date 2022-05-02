@@ -6,7 +6,7 @@
 */
 
 function content() {
-  var poem = `
+  var poem = [];
   
   // 1st
   var stanza = [
@@ -15,7 +15,7 @@ function content() {
   "Ke Pusdai ternyata Gasibu",
   "Kecuali hujan boleh di sana"
   ];
-  poem.push(stanza)
+  poem.push(stanza);
   
   // 2nd
   var stanza = [
@@ -24,8 +24,44 @@ function content() {
   "Alhamdulillah keadaan membaik",
   "Dapat sholat bersama lagi"
   ];
-  poem.push(stanza)
+  poem.push(stanza);
 
+  // 3rd
+  var stanza = [
+  "Pusdai ke Gasibu",
+  "Lewat Diponegoro",
+  "Gasibu ke Pusdai",
+  "Melalui Surapati"
+  ];
+  poem.push(stanza);
+  
+  // 4th
+  var stanza = [
+  "",
+  "",
+  "",
+  ""
+  ];
+  poem.push(stanza);
+  
+  // 5th
+  var stanza = [
+  "",
+  "",
+  "",
+  ""
+  ];
+  poem.push(stanza);
+  
+  // 6th
+  var stanza = [
+  "",
+  "",
+  "",
+  ""
+  ];
+  poem.push(stanza);
+  
   // nth
   var stanza = [
   "",
@@ -33,17 +69,8 @@ function content() {
   "",
   ""
   ];
-  poem.push(stanza)
-  
-  var stanza = [
-  "",
-  "",
-  "",
-  ""
-  ];
-  poem.push(stanza)  
-  
-  
+  poem.push(stanza);
+    
   return poem;
 }
 stanza = `
@@ -55,10 +82,10 @@ stanza = `
 
 
 
-Pusdai ke Gasibu
-Lewat Diponegoro
-Gasibu ke Pusdai
-Melalui Surapati
+
+
+
+
 
 Belum tiba di Rancaupas
 Masih empat kilo lagi
