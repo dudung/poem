@@ -50,4 +50,9 @@ Cecak di dua tempat
 Juga lintah di ponco
 Apakah kebetulan belaka?
 Atau masih merupakan serangan?
+
+Demikian info hari ini
+Banyak mungkin yang terlupa
+Bila ada tambahan lagi
+Akan disunting diubah
 `;
