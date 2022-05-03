@@ -26,6 +26,16 @@ Lembab dan dingin udaranya
 Bukan tempat hewan berdarah dingin
 Dari mana asal penyuara cekcek?
 
+Sarapan jablay dan nasi goreng
+Telur rebus tak matang lalu digoreng
+Rendang dan cumi saus Padang
+Indomie kuah sebelumnya dan nasi
+
+Kemas-kemas packing-packing
+Kelan bulu tebal menjenguk
+Lucu dan ramah menggemaskan
+Masuk ke tenda saat ditinggalkan
+
 Wortel dicari rusa-rusa
 Menyusuri Kabin dan Iglo
 Foto-foto di kawah putih
